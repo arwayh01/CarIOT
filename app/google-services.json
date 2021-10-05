@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35285288220",
+    "project_id": "cariot-c8347",
+    "storage_bucket": "cariot-c8347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35285288220:android:da9df320e6948325cb66d9",
+        "android_client_info": {
+          "package_name": "com.example.cariot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35285288220-4ad8vrb0hp6oi530vke29s2k530bdugk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt4rIga39KXE72SkhnxaUq8iFJWwJF46k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35285288220-4ad8vrb0hp6oi530vke29s2k530bdugk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
